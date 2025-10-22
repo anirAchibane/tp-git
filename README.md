@@ -1,6 +1,6 @@
 # Git & GitHub Lab
 
-## Lab Objectives Section:
+## Objectives Section:
 1) Understand basic Git concepts.
 2) Create and manage local and remote repositories.
 3) Use essential Git commands.
